@@ -33,3 +33,11 @@
 - AI -- Claude Code, Cursor, Prompt Communication
 - Version Control -- Git, [Jujutsu (jj)](https://github.com/jj-vcs/jj)
 - Blog RSS Curation
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Contributions
+
+<p align="center">
+  <img alt="github profile contributions chart" src="./profile-3d-contrib/profile-gitblock.svg" />
+</p>
